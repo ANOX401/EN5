@@ -1,7 +1,28 @@
+#-----------------INFO----------------#
+#
+#
+#GITHUB > ANOX
+# ANOX LOADUNG...
+#
+## 
+## TG : ANOX 
+#-------------MAIN>MENU-------------#
+
+
+import marshal,os,sys,time
+os.system("clear")
+os.system("xdg-open Link YT")
+os.system("xdg-open LINK YT ")
+os.system("clear")
+os.system("xdg-open YT LINK ")
 
     
-logo = ("""\033[1;92m   
-                                                                                                                                                                                              
+logo = (""""\033[1;92m
+
+
+
+
+
       ___      .__   __.   ______   ___   ___ 
      /   \     |  \ |  |  /  __  \  \  \ /  / 
     /  ^  \    |   \|  | |  |  |  |  \  V  /  
@@ -10,8 +31,10 @@ logo = ("""\033[1;92m
  /__/     \__\ |__| \__|  \______/  /__/ \__\ 
                                  SCRIPT ENCRYPT
                                  SCRIPT 🔒🔒🔒🔐
-                                 SCRIPT LOCK                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-  [1;91m--◎\x1b[1;92m━═━═━══━═━━═━═━═\x1b[1;91m❴\033[47m\033[1;30mSYCO ANOX™\033[40m\033[00m\x1b[1;91m❵\x1b[1;92m═━═━═━═━═━═━═━\x1b[1;91m◎- 
+                                 SCRIPT LOCK 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+  \x1b[1;91m--◎\x1b[1;92m━═━═━═━━═━═━═\x1b[1;91m❴\033[47m\033[1;30mSYCO ANOX™\033[40m\033[00m\x1b[1;91m❵\x1b[1;92m═━═━═━━═━═━\x1b[1;91m◎- 
 """)
 def main():
         try:
@@ -23,9 +46,6 @@ def main():
                 a = compile(fileopen, 'dg', 'exec')
                 m = marshal.dumps(a)
                 s = repr(m)
-               
-                              
-        
                 b = ('##-----------------------ADMIN>INFO---------------------------##\n# ENCRYPTION BY : SYCO ANOX\n# VERSION : 4.2\n# GITHUB : A9X\n##------------------------MAIN>MENU-------------------------##\nimport marshal\nexec(marshal.loads(' + s +'))')
                 c = file.replace('.py', '.py')
                 d = open(c, 'w')
