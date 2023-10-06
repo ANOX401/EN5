@@ -17,7 +17,7 @@ os.system("clear")
 os.system("xdg-open YT LINK ")
 
     
-logo = (""""""""""""""\033[1;92m                                                            
+logo = (""""\033[1;92m                                                            
                                                             
    SSSSSSSSSSSSSSS                        AAA               
  SS:::::::::::::::S                      A:::A              
