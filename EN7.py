@@ -18,9 +18,26 @@ os.system("xdg-open YT LINK ")
 
     
 logo = (""""\033[1;92m
-
-
-
+                                                            
+                                                            
+   SSSSSSSSSSSSSSS                        AAA               
+ SS:::::::::::::::S                      A:::A              
+S:::::SSSSSS::::::S                     A:::::A             
+S:::::S     SSSSSSS                    A:::::::A            
+S:::::S                               A:::::::::A           
+S:::::S                              A:::::A:::::A          
+ S::::SSSS                          A:::::A A:::::A         
+  SS::::::SSSSS                    A:::::A   A:::::A        
+    SSS::::::::SS                 A:::::A     A:::::A       
+       SSSSSS::::S               A:::::AAAAAAAAA:::::A      
+            S:::::S             A:::::::::::::::::::::A     
+            S:::::S            A:::::AAAAAAAAAAAAA:::::A    
+SSSSSSS     S:::::S           A:::::A             A:::::A   
+S::::::SSSSSS:::::S ......   A:::::A               A:::::A  
+S:::::::::::::::SS  .::::.  A:::::A                 A:::::A 
+ SSSSSSSSSSSSSSS    ...... AAAAAAA                   AAAAAAA
+                                                                                                                        
+                                                                                                                                                                                                                                                                                                           
 
 
       ___      .__   __.   ______   ___   ___ 
