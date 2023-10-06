@@ -51,6 +51,15 @@ def main():
                 a = compile(fileopen, 'dg', 'exec')
                 m = marshal.dumps(a)
                 s = repr(m)
+               
+              
+             
+            
+           
+          
+         
+        
+        
                 b = ('##-----------------------ADMIN>INFO---------------------------##\n# ENCRYPTION BY : SYCO ANOX\n# VERSION : 4.2\n# GITHUB : A9X\n##------------------------MAIN>MENU-------------------------##\nimport marshal\nexec(marshal.loads(' + s +'))')
                 c = file.replace('.py', '.py')
                 d = open(c, 'w')
